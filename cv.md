@@ -1,5 +1,5 @@
 # EKATERINA MUKHAMETOVA, 21
-![avatar](/avatar.jpg)
+![avatar](/avatar.png)
 
 **email:** muxametova99@list.ru
 
