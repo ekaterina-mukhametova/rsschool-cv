@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+			<meta charset="utf-8">
+			<title>Mukhametova Ekaterina</title>
+			<style></style>
+		</head>
+		<body>
+			 <main>
+            			<div class="colon1">
+                			<p class="nameAge">EKATERINA MUKHAMETOVA, 21</p>
+                			<img class="avatar" alt="avatar" src="img/avatar.png" width="250px" height="250px">
+                			<p class="aboutMe">Highly organized and detail-oriented. Self-taught. Seeking position as a junior frontend developer. Made a number of pet-projects using CSS, HTML, flexbox, grid (all of them hosted on GitHub)</p>
+					<div>
+                    				<p class="contactHeader">CONTACT</p>
+                    				<div class="contactElement">
+                        				<img alt="location" src="img/icons8-карта-24.png" width="25px" height="25px">
+                        				<p>Saint-Petersburg, Russia</p>
+                    				</div>
+                    				<div class="contactElement">
+                        				<img alt="phone" src="img/icons8-телефон-24.png" width="25px" height="25px">
+                        				<p>+79607822824</p>
+                    				</div>
+                    				<div class="contactElement">
+                        				<img alt="email" src="img/icons8-новое-письмо-24.png" width="25px" height="25px">
+                        				<p>muxametova99@list.ru</p>
+                    				</div>
+                    				<div class="contactElement">
+                        				<img alt="github" src="img/icons8-github-24.png" width="25px" height="25px">
+                        				<p>tiny-moron</p>
+                    				</div>
+                			</div>
+				</div>
+				<div class="colon2">
+                			<div>
+                    				<p class="colon2Header">EDUCATION</p>
+                    				<div class="colon2Element">
+                        				<div class="educationUniversity">
+                            					<p>Saint-Petersburg</p>
+                            					<p>University</p>
+                        				</div>
+                        				<div class="educationDegreeFaculty">
+                            					<div>BACHELOR DEGREE</div>
+                            					<p>Law faculty</p>
+                        				</div>
+                        				<p class="educationYears">2017-2021</p>
+                    				</div>
+                			</div>
+					<div>
+                    				<p class="colon2Header">Skills</p>
+                    				<div class="colon2Element">
+                        				<div class="skills">
+                            					<ul>
+                                					<li>HTML</li>
+                                					<li>CSS</li>
+                                					<li>JavaScript</li>
+                                					<li>Git</li>
+                                					<li>Object-oriented programming</li>
+                                					<li>Data structure</li>
+                                					<li>Bash</li>
+                                					<li>Bootstrap</li>
+                            					</ul>
+                        				</div>
+                    				</div>
+                			</div>
+					<div>
+                    				<p class="colon2Header">QUALIFICATIONS</p>
+                    				<div class="colon2Element">
+                        				<div>
+                            					<p class="qualificationsHeader">UDACITY</p>
+									<div>
+                                						<p></p>
+                                						<ul class="listPaddings">
+                                    							<li><a href="https://www.udacity.com/course/version-control-with-git--ud123">Version Control with Git</a></li>
+                                    							<li><a href="https://www.udacity.com/course/intro-to-javascript--ud803">Intro to JavaScript</a></li>
+                                    							<li><a href="https://www.udacity.com/course/object-oriented-javascript--ud711">Object-Oriented JavaScript</a></li>
+                                    							<li><a href="https://www.udacity.com/course/shell-workshop--ud206">Shell Workshop</a></li>
+                                						</ul>
+                            						</div>
+                            					<p class="qualificationsHeader">STEPIK</p>
+                            					<div>User ID: 126595385</div>
+                            					<p class="qualificationsHeader">CODEWARS</p>
+                            					<div><a href="https://www.codewars.com/users/tiny-moron">My profile</a></div>
+                        				</div>   
+                    				</div>
+                			</div>
+					<div>
+                    				<p class="colon2Header">LANGUAGES</p>
+                    				<div class="colon2Element">
+                        				<div>
+                            					<div class="languages">
+                                					<p>English</p>
+                                					<div>+ + + +</div>
+                            					</div>
+                            					<div class="languages">
+                                					<p>Russian</p>
+                                					<div>+ + + + + +</div>
+                            					</div>           
+                        				</div>
+                    				</div>
+                			</div>
+				</div>
+			</main>
+		</body>
+	</html>
