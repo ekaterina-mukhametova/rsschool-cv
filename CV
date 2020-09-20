@@ -84,6 +84,21 @@
                         				</div>   
                     				</div>
                 			</div>
+					<div>
+                    				<p class="colon2Header">LANGUAGES</p>
+                    				<div class="colon2Element">
+                        				<div>
+                            					<div class="languages">
+                                					<p>English</p>
+                                					<div>+ + + +</div>
+                            					</div>
+                            					<div class="languages">
+                                					<p>Russian</p>
+                                					<div>+ + + + + +</div>
+                            					</div>           
+                        				</div>
+                    				</div>
+                			</div>
 				</div>
 			</main>
 		</body>
