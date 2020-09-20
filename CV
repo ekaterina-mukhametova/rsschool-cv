@@ -31,6 +31,22 @@
                     				</div>
                 			</div>
 				</div>
+				<div class="colon2">
+                			<div>
+                    				<p class="colon2Header">EDUCATION</p>
+                    				<div class="colon2Element">
+                        				<div class="educationUniversity">
+                            					<p>Saint-Petersburg</p>
+                            					<p>University</p>
+                        				</div>
+                        				<div class="educationDegreeFaculty">
+                            					<div>BACHELOR DEGREE</div>
+                            					<p>Law faculty</p>
+                        				</div>
+                        				<p class="educationYears">2017-2021</p>
+                    				</div>
+                			</div>
+				</div>
 			</main>
 		</body>
 	</html>
