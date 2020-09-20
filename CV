@@ -11,6 +11,25 @@
                 			<p class="nameAge">EKATERINA MUKHAMETOVA, 21</p>
                 			<img class="avatar" alt="avatar" src="img/avatar.png" width="250px" height="250px">
                 			<p class="aboutMe">Highly organized and detail-oriented. Self-taught. Seeking position as a junior frontend developer. Made a number of pet-projects using CSS, HTML, flexbox, grid (all of them hosted on GitHub)</p>
+					<div>
+                    				<p class="contactHeader">CONTACT</p>
+                    				<div class="contactElement">
+                        				<img alt="location" src="img/icons8-карта-24.png" width="25px" height="25px">
+                        				<p>Saint-Petersburg, Russia</p>
+                    				</div>
+                    				<div class="contactElement">
+                        				<img alt="phone" src="icons8-телефон-24.png" width="25px" height="25px">
+                        				<p>+79607822824</p>
+                    				</div>
+                    				<div class="contactElement">
+                        				<img alt="email" src="img/icons8-новое-письмо-24.png" width="25px" height="25px">
+                        				<p>muxametova99@list.ru</p>
+                    				</div>
+                    				<div class="contactElement">
+                        				<img alt="github" src="img/icons8-github-24.png" width="25px" height="25px">
+                        				<p>tiny-moron</p>
+                    				</div>
+                			</div>
 				</div>
 			</main>
 		</body>
