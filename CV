@@ -63,6 +63,27 @@
                         				</div>
                     				</div>
                 			</div>
+					<div>
+                    				<p class="colon2Header">QUALIFICATIONS</p>
+                    				<div class="colon2Element">
+                        				<div>
+                            					<p class="qualificationsHeader">UDACITY</p>
+									<div>
+                                						<p></p>
+                                						<ul class="listPaddings">
+                                    							<li><a href="https://www.udacity.com/course/version-control-with-git--ud123">Version Control with Git</a></li>
+                                    							<li><a href="https://www.udacity.com/course/intro-to-javascript--ud803">Intro to JavaScript</a></li>
+                                    							<li><a href="https://www.udacity.com/course/object-oriented-javascript--ud711">Object-Oriented JavaScript</a></li>
+                                    							<li><a href="https://www.udacity.com/course/shell-workshop--ud206">Shell Workshop</a></li>
+                                						</ul>
+                            						</div>
+                            					<p class="qualificationsHeader">STEPIK</p>
+                            					<div>User ID: 126595385</div>
+                            					<p class="qualificationsHeader">CODEWARS</p>
+                            					<div><a href="https://www.codewars.com/users/tiny-moron">My profile</a></div>
+                        				</div>   
+                    				</div>
+                			</div>
 				</div>
 			</main>
 		</body>
