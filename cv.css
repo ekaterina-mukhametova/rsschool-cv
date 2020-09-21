@@ -1,0 +1,98 @@
+body {
+    width: 1024px;
+    margin: auto;
+    font-family: Roboto, sans-serif;
+}
+main {
+    display: flex;
+}
+.colon1 {
+    background-color: #2c314d;
+    color: #FFFFFF;
+    padding: 45px 30px;
+    width: 395px
+    
+    
+}
+.nameAge {
+    font-size: 40px;
+    font-weight: 700;
+    margin: 0;
+    text-align:center;
+}
+.avatar {
+    margin: 30px 75px;
+}
+.aboutMe {
+    font-size: 20px;
+    line-height: 35px;
+}
+.contactHeader {
+    font-size: 30px;
+    font-weight: 700;
+    text-align: center;
+    margin: 50px 0 30px 0;
+}
+.contactElement {
+    display: flex;
+    margin-bottom: 40px;
+}
+.contactElement p {
+    font-size: 20px;
+    margin: 0 30px;
+}
+.colon2 {
+    color: #2c314d;
+    padding: 45px 35px;
+}
+.colon2Header {
+    color: #2c314d;
+    font-size: 30px;
+    border-bottom:  #2c314d solid 5px;
+    padding-right: 200px;
+    font-weight: 700;
+    margin:0;
+}
+.colon2Element {
+    display: flex;
+    padding: 30px 0;
+    
+}
+.educationUniversity p{
+    font-size: 14px;
+    margin: 0;
+}
+.educationDegreeFaculty {
+    margin: 0 40px 0 30px;
+}
+.educationDegreeFaculty div {
+    font-size:19px; 
+    font-weight: 700;
+    margin-bottom: 5px;
+}
+.educationDegreeFaculty p {
+    margin: 0;
+    font-size: 16px;
+}
+.educationYears {
+    margin: 0;
+}
+.skills {
+    line-height: 30px;
+}
+.qualificationsHeader {
+    font-size:19px; 
+    font-weight: 700;
+}
+a {
+    color: #2c314d;
+}
+.languages p {
+    margin: 0 30px 10px 0;
+}
+.languages {
+    display: flex;
+}
+.listPaddings li {
+    margin: 10px 0;
+}
